@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { type ApplicationStatus } from "./JobApplicationCard";
-import { type Application } from '../App';
+import { type Application } from '../pages/HomePage';
 
 interface JobApplicationModalProps {
     isModalOpen: boolean;
