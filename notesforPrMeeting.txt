@@ -1,0 +1,11 @@
+components: filter - single select radio component, pass in values
+            multi select-square box 
+            search bar as component
+            smaller compenents in the big component
+
+            company cards
+            people cars
+
+            sort by, just do the drop down single select
+
+            no functionality just look
